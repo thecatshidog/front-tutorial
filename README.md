@@ -19,3 +19,5 @@ this is my frontend notes.
 #### babel
 
 1、[babel中文翻译用户手册](https://github.com/thejameskyle/babel-handbook/blob/master/translations/zh-Hans/user-handbook.md)
+
+2、[babel阮一峰教程](http://www.ruanyifeng.com/blog/2016/01/babel.html)
