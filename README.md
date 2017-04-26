@@ -12,3 +12,10 @@ this is my frontend notes.
 #### grid布局
 
 1、 [css书写模式](http://mp.weixin.qq.com/s/NO7FNDqFZIHuKJfj1lIUUA)
+
+
+### web tools
+
+#### babel
+
+1、[babel中文翻译用户手册](https://github.com/thejameskyle/babel-handbook/blob/master/translations/zh-Hans/user-handbook.md)
