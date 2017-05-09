@@ -40,3 +40,10 @@ this is my frontend notes.
 - this的几种指向情况，全局，函数，call/bind/apply，对象方法调用栈。
 - 闭包其实就是某个执行上下文栈里的一个自由变量是用了上面的一个执行上下文栈的，所以我们不能销毁这个执行上下文栈，而导致内存开销变大。
 - 原型的基本概念
+
+
+### Tools
+
+#### git
+
+1、[git的commit提交信息的格式化](https://juejin.im/post/59110c322f301e0057e4c182)
